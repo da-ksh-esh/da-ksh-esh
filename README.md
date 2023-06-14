@@ -2,7 +2,7 @@
 - 👀 I’m interested in caloborative work
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.instagram.com/da_ksh_esh/
+- 📫 How to reach me www.instagram.com/da_ksh_esh/
 
 <!---
 da-ksh-esh/da-ksh-esh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
