@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @da-ksh-esh
-- 👀 I’m interested in caloborative work
+- 👋 Hi, I’m Dakshesh Chauhan
+- 👀 Building my Portfolio Website
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.instagram.com/da_ksh_esh/
+- 📫 Instagram- ww.instagram.com/da_ksh_esh/
+
+- DPSGRN'24
+- SIT Pune'28
 
 <!---
 da-ksh-esh/da-ksh-esh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
